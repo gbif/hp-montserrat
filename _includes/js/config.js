@@ -93,7 +93,7 @@ var siteConfig = {
     mapSettings: {
       lat: 16.752,
       lng: -62.189888,
-      zoom: 6,
+      zoom: 7,
     },
   },
   collectionSearch: {},
