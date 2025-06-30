@@ -3,7 +3,7 @@ lang-ref: home
 layout: home
 title: Montserrat Environmental Information System
 description: Lorem markdownum spatium limes indefessus neque
-background:  "/assets/images/placeholders/acalypha_gillespieae_1258001892.jpg"
+background:  "/assets/images/placeholders/pribby.png"
 imageLicense: "No description provided, but you should write on here along with a license"
 height: 90vh
 cta:
