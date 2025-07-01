@@ -2,7 +2,7 @@
 lang-ref: home
 layout: home
 title: Montserrat Environmental Information System
-description: Lorem markdownum spatium limes indefessus neque
+description: Bringing together Montserrat's unique biodiversity 
 background:  "/assets/images/pribby.png"
 imageLicense: "No description provided, but you should write on here along with a license"
 height: 90vh
