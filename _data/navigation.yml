@@ -10,12 +10,6 @@
     href: /occurrence/search
   - text: Literature
     href: /literature/search
-- text: random
-  menu: 
-  - text: Cheese
-    href: google.com
-  - text: Cake
-    href: windows.com
 - text: Example pages
   menu: # Dropdown menu (one level deep only)
   - text: Simple
