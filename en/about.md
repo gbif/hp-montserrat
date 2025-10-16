@@ -2,7 +2,7 @@
 permalink: about
 lang-ref: about
 title: About
-description: Lorem markdownum spatium limes indefessus neque at orat aestuat
+description: Montserrat is a small volcanic island in the Caribbean, known for its lush tropical forests, dramatic landscapes, and exceptional biodiversity. Despite its limited size, it supports a remarkable variety of plant and animal species, many of which are found nowhere else in the world. The island’s ecosystems—from coastal mangroves to montane rainforests—harbour unique flora and fauna that have adapted to its rugged terrain and periodic volcanic activity, making Montserrat a vital refuge for Caribbean biodiversity.
 background: /assets/images/placeholders/moss.jpg
 imageLicense: |
   None for this image, but it would normally go here. Markdown is allowed.
