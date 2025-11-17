@@ -5,10 +5,10 @@
 columns:
   - name: Partners
     links:
-    - text: Name of project partner 1
-      href: http://example.com
-    - text: Name of project partner 2
-      href: http://example.com
+    - text: Montserrat National Trust
+      href: https://montserratnationaltrust.ms/
+    - text: Ministry of Agriculture, Lands, Housing and the Environment
+      href: https://www.gov.ms/government/ministries/ministry-of-agriculture-lands-housing-environment/department-of-environment/
 
   - name: Code
     description: | # Can be Markdown
