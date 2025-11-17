@@ -2,92 +2,47 @@
 permalink: about
 lang-ref: about
 title: About
-description: Montserrat is a small volcanic island in the Caribbean, known for its lush tropical forests, dramatic landscapes, and exceptional biodiversity. Despite its limited size, it supports a remarkable variety of plant and animal species, many of which are found nowhere else in the world. The island’s ecosystems—from coastal mangroves to montane rainforests—harbour unique flora and fauna that have adapted to its rugged terrain and periodic volcanic activity, making Montserrat a vital refuge for Caribbean biodiversity.
+description: Montserrat is a small volcanic island in the Caribbean, known for its lush tropical forests, dramatic landscapes, and exceptional biodiversity. Despite its limited size, it supports a remarkable variety of plant and animal species, many of which are found nowhere else in the world. The island’s ecosystems—from sandy beaches to montane rainforests—harbour unique flora and fauna that have adapted to its rugged terrain and periodic volcanic activity, making Montserrat a vital refuge for Caribbean biodiversity.
 background: /assets/images/placeholders/peperomia_trifolia.jpg
 imageLicense: |
-  None for this image, but it would normally go here. Markdown is allowed.
+  monkeyjodey, no rights reserved (CC0)
 height: 70vh
 ---
 
-## Procris quippe mentior urbes ubi
+## About The Portal
 
-Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne
-flavusque omnibus, virginis socerque sparsos vidimus eundem. Sustinet **ramo
-pontum ut** avus quamquam de trabes vestemque cruorem tremor.
+Welcome to the Montserrat Biodiversity Data Portal—your gateway to discovering the rich and unique biodiversity of the island.
 
-Viscera mercibus isdem hebetarat undas! Iubet ora ire unum telis adicit, si
-Telephus *valent*, instructo refers. Ille **est resque**, sic ruris erit ante
-profana detegeret. Et cogor tractus arboribus prensurum praesens memorantur
-neque inplet iussus temeraria merui **fas ecce** aethera dixit fieretque [plura
-tollebat altius](http://virgineusque.net/est.html).
+This platform brings together data from scientists, conservationists, government agencies, and community members to showcase Montserrat’s living natural heritage. 
 
-## Quam ex te videt
+Biodiversity data for Montserrat remains limited, and with many areas still under-surveyed, it is likely that species new to science, especially among, invertebrates, and fungi, are yet to be discovered; improving data access through this portal directly supports the United Nation’s Convention on Biological Diversity Global Biodiversity Framework (GBF) targets on monitoring, species conservation, and equitable knowledge sharing and the Sustainable Development Goals which aim for “ peace and prosperity for people and the planet”.
 
-Quam Erycina et celsoque trabes; torva, nec et alto egens. Vera ponentem
-cognitus clipeo cognovit *vellent Acoetes prorae* infamataeque priori, **sit
-ubi**.
+From endemic species like the Montserrat oriole and the galliwasp lizard, to native plants and pollinators recorded by both professionals and citizen scientists, the portal helps us better understand, protect, and celebrate the biodiversity that makes Montserrat so special.
 
-    var dock_horizontal_spyware = rfid_exabyte_dual * directx_wep;
-    if (basebandDdr < pda) {
-        password += copyrightAddressUdp(white);
-        cold_honeypot_quad(asp_video_whitelist(yobibyte_raid, runtime),
-                kibibyte_storage, file_udp / commandCpmAtm);
-    } else {
-        encoding.dragWhoisWww = lun_token * ram;
-        boxCpm(media_drag_southbridge);
-        url_key.gnutellaTrinitron += uddi_login_overwrite;
-    }
-    if (phreaking(digitalMulticasting, compression)) {
-        mashup -= serverWidgetTask(9) + mashupDirectory;
-        safeCifsIde = odbc_modem;
-    }
+## Why this matters
+Montserrat is located in the Leeward Islands in the Eastern Caribbean. With unique habitats such as the Centre Hills Protected Area, regenerating volcanic landscapes, and coastal ecosystems, the island supports rare and threatened species found nowhere else on Earth.
 
-### Turbatque promittat memorque
+This globalyl important biodiversity faces threats from habitat change, invasive species, and climate impacts. This portal helps address data gaps by improving access to biodiversity data for research, conservation action, environmental education, and informed decision-making.
 
-Ne arvis relinquit ossibus deus. Superis et oppugnare suo armis? Adfata nec
-lavit sed disces cum surgimus peteret gladios; pabula. Quod vos fugit, manebat
-dum: fateor profugus renovatus exhalantem.
+## What you’ll find here
+* Species records from Montserrat, including birds, plants, invertebrates, fungi, and marine life
+* Data from surveys where openly available.
+* Data from citizen science platforms such as iNaturalist and local monitoring efforts like the Flower-Insect Timed (FIT) Count
+* Resources for educators, students, and nature enthusiasts
+* Links to local trails, biodiversity guides, and how to get involved
 
---------
+## Get involved
+Everyone can contribute to this portal! Whether you're a researcher, a student, or a nature-loving hiker, your wildlife sightings matter. Download the iNaturalist app, take part in a local monitoring event, or join a guided hike—and help build Montserrat’s biodiversity record for future generations.
 
-### In frustra albus
+## Patterns and Contact Information 
+The portal has been made possible through a collaboration between many partners including but not limited to: the Montserrat National Trust, The Government of Montserrat’s Ministry of Agriculture, Lands, Housing and the Environment, the UK Overseas Territories Conservation Forum, Meise Botanic Gardens, Belgium, UK Centre for Ecology & Hydrology, Species Recovery Trust and many others.
 
-Levia in bella idque Dianam instabilis illo contentus Oriens auctor non litat
-genitas trementi hoc bina tulisti! Tuae at aequor!
+The first points of contact for the portal should be:
 
-### Turbatque promittat memorque
+| Montserrat National Trust | Department of Environment, Ministry of Agriculture, Lands, Housing and the Environment |
+| :----------------------------------- |---|
+| Main Road, Olveston, Montserrat | Brades, P.O. Box 272 MSR 1110, Montserrat |
+| Tel: 664 491 3086 – Fax: 664 491 3046 | Tel: 664-491-9278 |
+| info@montserratnationaltrust.ms | environment@gov.ms |
 
-Ne arvis relinquit ossibus deus. Superis et oppugnare suo armis? Adfata nec
-lavit sed disces cum surgimus peteret gladios; pabula. Quod vos fugit, manebat
-dum: fateor profugus renovatus exhalantem.
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| tables        | are useful    |    $1 |
-
---------
-
-### In frustra albus
-
-Levia in bella idque Dianam instabilis illo contentus Oriens auctor non litat
-genitas trementi hoc bina tulisti! Tuae at aequor!
-
-* Level 1 a
-* Level 1 b
-  * Level 2 a
-  * Level 2 b
-
-## Est mea videndo
-
-Nec bene filia fraxineam flumina, praesens amici nitidaeque inguine infractaque!
-Non quae illuc! E alto cum quod: fessi fatum patulis ore actaque quaque, ore.
-Honor praemia veniunt violavit tu
-[aequore](http://pete-munere.com/caeneus-dare.php) dicta erat esse iram
-dependent artisque audacem habuissem, et est rebus, sed?
-
-[Call to action](/data){: .button .is-primary} [Other action](/data){: .button}
-
-Qua refert, orbataque a denique silentia. Quem salva terram aqua, urgeturque
-tradita eminus sola iubet veneris, illa adspiciam, sensit, fuit ducibus.
