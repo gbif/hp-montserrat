@@ -14,6 +14,8 @@
   menu: # Dropdown menu (one level deep only)
   - text: Guides
     href: /resources/guides
+  - text: Projects
+    href: /resources/projects
   - text: Centre Hill Protected Area
     href: /resources/centre_hills
   - text: Complex
