@@ -1,5 +1,5 @@
 ---
-permalink: about/botanic_garden
+permalink: places/botanic_garden
 layout: post # try to remove this line (add # in the beginning of the line to make it a comment) - then the layout will change, but the content remain the same
 title: Montserrat Botanic Garden
 description: The Montserrat National Trust Botanical Gardens are a centre for plant conservation, education, and community engagement in Olveston.
