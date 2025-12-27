@@ -3,7 +3,7 @@ permalink: resources/redlist
 layout: post # try to remove this line (add # in the beginning of the line to make it a comment) - then the layout will change, but the content remain the same
 title: The Red List
 description: The IUCN Red List helps assess extinction risk, guide conservation priorities, and track recovery for threatened species on Montserrat.
-background: /assets/images/Centre Hills_Blackwood Allen_UKOTCF_narrow.jpg.jpg
+background: /assets/images/Heliconia_UKOTCF.jpeg
 imageLicense: |
   None for this image, but it would normally go here. Markdown is allowed.
 height: 70vh
