@@ -2,11 +2,12 @@
 
 - text: About
   href: /about
-- text: Montserrat Botanic Garden
-  href: /about/botanic_garden
-# - text: Occurrences
-#   href: /occurrence/search
 - text: Data
+- text: Montserrat National Trust
+  menu: 
+  - text: Montserrat Botanic Garden
+    href: /about/botanic_garden
+  - text: Data
   menu: 
   - text: Occurrences
     href: /occurrence/search
