@@ -10,10 +10,10 @@
     href: /occurrence/search
   - text: Literature
     href: /literature/search
-- text: Example pages
+- text: Resources
   menu: # Dropdown menu (one level deep only)
   - text: Simple
-    href: /example-pages/simple
+    href: /resources/guides
   - text: Complex
     href: /example-pages/complex
 - text: Links
