@@ -3,7 +3,7 @@ permalink: resources/guides
 layout: post # try to remoce this line (add # in the beginning of the line to make it a comment) - then the layout will change, but the content remain the same
 title: iNaturalist Guides for Montserrat
 description: Use these guides to discover, identify, and share observations of Montserrat’s native species.
-background: /assets/images/placeholders/moss.jpg
+background: /assets/images/Centre Hills_Blackwood Allen_UKOTCF_narrow.jpg.jpg
 imageLicense: |
   None for this image, but it would normally go here. Markdown is allowed.
 height: 70vh
