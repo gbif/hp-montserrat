@@ -1,5 +1,5 @@
 ---
-permalink: monitoring/biological-monitoring
+permalink: resources/contributing
 layout: post # try to remove this line (add # in the beginning of the line to make it a comment) - then the layout will change, but the content remain the same
 title: Biological Monitoring
 description: Monitoring biodiversity helps us understand environmental change and measure whether conservation actions are working.
