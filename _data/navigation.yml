@@ -2,42 +2,47 @@
 
 - text: About
   href: /about
-- text: Data
+
 - text: Montserrat National Trust
-  menu: 
-  - text: Montserrat Botanic Garden
-    href: /about/botanic_garden
-  - text: Data
-  menu: 
-  - text: Occurrences
-    href: /occurrence/search
-  - text: Literature
-    href: /literature/search
+  menu:
+    - text: Montserrat Botanic Garden
+      href: /places/botanic-garden
+    - text: Centre Hills Protected Area
+      href: /places/centre-hills
+
+- text: Data
+  menu:
+    - text: Occurrences
+      href: /occurrence/search
+    - text: Literature
+      href: /literature/search
+
 - text: Resources
-  menu: # Dropdown menu (one level deep only)
-  - text: Contributing
-    href: resources/contributing
-  - text: Guides
-    href: /resources/guides
-  - text: Projects
-    href: /resources/projects
-  - text: Centre Hill Protected Area
-    href: /resources/centre_hills
-  - text: Complex
-    href: /example-pages/complex
+  menu:
+    - text: Contributing
+      href: /resources/contributing
+    - text: Guides
+      href: /resources/guides
+    - text: Projects
+      href: /data-portal/projects
+    - text: Biological Monitoring
+      href: /monitoring/biological-monitoring
+
 - text: Links
-  menu: # Dropdown menu (one level deep only)
-  - text: Base theme demo
-    href: https://hp-base-theme.gbif-staging.org/
-  - text: Other sites using the theme
-    href: https://github.com/gbif/?q=hp-&type=all&language=&sort=
-  - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
-  - text: "Docs" # Title for block of menu items
-  - text: Jekyll documentation
-    href: https://jekyllrb.com/docs/pages/
-  - text: Markdown tutorial
-    href: https://guides.github.com/features/mastering-markdown/
-  - text: YAML tutorial
-    href: https://dev.to/paulasantamaria/introduction-to-yaml-125f
+  menu:
+    - text: Base theme demo
+      href: https://hp-base-theme.gbif-staging.org/
+    - text: Other sites using the theme
+      href: https://github.com/gbif/?q=hp-&type=all&language=&sort=
+    - text: "---"
+    - text: "Docs"
+    - text: Jekyll documentation
+      href: https://jekyllrb.com/docs/pages/
+    - text: Markdown tutorial
+      href: https://guides.github.com/features/mastering-markdown/
+    - text: YAML tutorial
+      href: https://dev.to/paulasantamaria/introduction-to-yaml-125f
+
 - text: News
   href: /news/
+
