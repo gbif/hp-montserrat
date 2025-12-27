@@ -6,7 +6,7 @@
 - text: Montserrat National Trust
   menu:
     - text: Montserrat Botanic Garden
-      href: /places/botanic-garden
+      href: /places/botanic_garden
 
 - text: Data
   menu:
