@@ -19,7 +19,7 @@ Montserrat’s hiking trails wind through striking volcanic landscapes, lush for
 
 Download the **Montserrat Trail Guide and Map** to explore hiking routes across the island and discover the biodiversity, scenic views, and cultural heritage each trail has to offer:
 
-➡️ **[Download the Montserrat Trail Guide and Map](INSERT-LINK-HERE)**
+➡️ **[Download the Montserrat Trail Guide and Map](/docs/Montserrat trail map and guide.pdf)**
 
 *(If the guide is a PDF hosted on this site, you can link to it like `/assets/docs/montserrat-trail-guide.pdf`.)*
 
