@@ -12,7 +12,7 @@
     href: /literature/search
 - text: Resources
   menu: # Dropdown menu (one level deep only)
-  - text: Simple
+  - text: Guides
     href: /resources/guides
   - text: Complex
     href: /example-pages/complex
