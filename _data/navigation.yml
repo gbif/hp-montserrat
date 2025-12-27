@@ -7,8 +7,6 @@
   menu:
     - text: Montserrat Botanic Garden
       href: /places/botanic-garden
-    - text: Centre Hills Protected Area
-      href: /places/centre-hills
 
 - text: Data
   menu:
@@ -27,6 +25,8 @@
       href: /data-portal/projects
     - text: Biological Monitoring
       href: /monitoring/biological-monitoring
+    - text: Centre Hills Protected Area
+      href: /places/centre-hills
 
 - text: Links
   menu:
