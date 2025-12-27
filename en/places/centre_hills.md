@@ -1,6 +1,6 @@
 
 ---
-permalink: /places/centre_hills
+permalink: places/centre_hills
 layout: post # try to remove this line (add # in the beginning of the line to make it a comment) - then the layout will change, but the content remain the same
 title: The Centre Hills Protected Area (CHPA)
 description: Montserrat’s largest remaining tract of native forest and a vital refuge for endemic and threatened species.
