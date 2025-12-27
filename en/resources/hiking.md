@@ -3,7 +3,7 @@ permalink: resources/hiking
 layout: post # try to remove this line (add # in the beginning of the line to make it a comment) - then the layout will change, but the content remain the same
 title: Hiking Trails of Montserrat
 description: Explore Montserrat’s trails for nature, well-being, and citizen science — from forest walks to volcanic landscapes and coastal views.
-background: /assets/images/Centre Hills_Blackwood Allen_UKOTCF_narrow.jpg.jpg
+background: /assets/images/Centre Hills_Blackwood Allen_UKOTCF_narrow.jpg
 imageLicense: |
   None for this image, but it would normally go here. Markdown is allowed.
 height: 70vh
