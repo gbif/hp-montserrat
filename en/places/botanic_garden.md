@@ -33,7 +33,7 @@ The gardens also include a **nursery**, supporting the propagation of endemic sp
 
 ## Visiting the gardens
 
-The Botanical Gardens and Gift Shop are open: :contentReference[oaicite:3]{index=3}  
+The Botanical Gardens and Gift Shop are open:  
 
 - **Monday to Thursday:** 8:30 am – 4:30 pm  
 - **Friday:** 8:30 am – 4:00 pm  
