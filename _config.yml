@@ -19,7 +19,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Montserrat Environmental Information System # the title of your site should go here
+title: Montserrat Biodiveristy Data Portal  # the title of your site should go here
 email: info@montserratnationaltrust.ms
 description: >-
   A hub for biodiversity information, identification resources, 
@@ -41,7 +41,7 @@ remote_theme: gbif/jekyll-hp-base-theme
 algae:
   rootLang: en
   # latestPostLimit: 2
-  logo: /assets/images/Logo-MNT.png  # Logo in navbar, will be displayed with 28px height
+  logo: /assets/images/BannerAlt.jpeg  # Logo in navbar, will be displayed with 28px height
   logoAndTitle: "Montserrat National Trust"         # include the title next to the logo
   archive_permalink: /news/       # Permalink of page using archive.html layout, required when using post categories
   style:
