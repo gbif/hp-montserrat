@@ -3,7 +3,7 @@ lang-ref: home
 layout: home
 title: Montserrat Environmental Information System
 description: Bringing together Montserrat's unique biodiversity 
-background:  "/assets/images/pribby.png"
+background:  "/assets/images/BannerAlt.jpeg"
 imageLicense: "No description provided, but you should write on here along with a license"
 height: 90vh
 cta:
