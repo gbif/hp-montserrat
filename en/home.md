@@ -1,7 +1,7 @@
 ---
 lang-ref: home
 layout: home
-title: Montserrat Environmental Information System
+title: Montserrat Biodiversity Data Portal
 description: Bringing together Montserrat's unique biodiversity 
 background:  "/assets/images/BannerAlt.jpeg"
 imageLicense: "No description provided, but you should write on here along with a license"
