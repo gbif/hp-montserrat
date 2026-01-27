@@ -4,8 +4,7 @@ layout: post # try to remove this line (add # in the beginning of the line to ma
 title: Montserrat Botanic Garden
 description: The Montserrat National Trust Botanical Gardens are a centre for plant conservation, education, and community engagement in Olveston.
 background: /assets/images/Nursery2_UKOTCF.jpg
-imageLicense: |UKOTCF
-  None for this image, but it would normally go here. Markdown is allowed.
+imageLicense: UKOTCF
 height: 70vh
 ---
 
