@@ -3,23 +3,15 @@
 
 # Columns (the more you add, the narrower they will be)
 columns:
-  - name: Partners
+  - name: Montserrat National Trust
     links:
     - text: Montserrat National Trust
       href: https://montserratnationaltrust.ms/
+  - name: Department of Environment
+    links:
     - text: Ministry of Agriculture, Lands, Housing and the Environment
       href: https://www.gov.ms/government/ministries/ministry-of-agriculture-lands-housing-environment/department-of-environment/
 
-  - name: Code
-    description: | # Can be Markdown
-      This project is open source. See `_data/footer.yml` to customize the footer.
-  
-  - name: Contact
-    description: | # Can be Markdown
-      Social icons links defined in `_config.yml`
-      * Street name
-      * 1234 postal code
-      * Country
     connectIcons: true
 
   # EXAMPLE
