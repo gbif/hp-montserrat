@@ -12,7 +12,7 @@ stats:
       href: https://www.gbif.org/occurrence/search?basis_of_record=PRESERVED_SPECIMEN&country=MS&occurrence_status=present
       blankTarget: true
     - title: <span data-ajax-path="data.occurrenceSearch.documents.total" data-ajax-url="https://graphql.gbif-staging.org/graphql?query=query%20%7B%0A%20%20occurrenceSearch%28predicate%3A%20%7Btype%3A%20and%2C%20predicates%3A%20%5B%7Btype%3A%20equals%2C%20key%3A%20%22countryCode%22%2C%20value%3A%20%22MS%22%7D%2C%20%7Btype%3A%20equals%2C%20key%3A%20%22notIssues%22%2C%20value%3A%20%22COUNTRY_COORDINATE_MISMATCH%22%7D%2C%20%7Btype%3A%20equals%2C%20key%3A%20%22publishing_org%22%2C%20value%3A%20%2228eb1a3f-1c15-4a95-931a-4af90ecb574d%22%7D%5D%7D%2C%20size%3A%200%29%20%7B%0A%20%20%20%20documents%20%7B%0A%20%20%20%20%20%20total%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D">9,000,000</span>
-      description: iNaturalist Research Grade
+      description: Research Grade
       background: /assets/icons/INaturalist_text_logo.svg
       href: https://www.inaturalist.org/projects/biodiversity-of-montserrat-d74f33fd-6145-4b47-aa12-ae6870d80113
       blankTarget: true
