@@ -4,7 +4,7 @@ layout: home
 title: Montserrat Biodiversity Data Portal
 description: Bringing together Montserrat's unique biodiversity 
 background:  "/assets/images/BannerAlt.jpeg"
-imageLicense: "Inspired by Montserrat, created by ©Lizze Harper, all rights reserved"
+imageLicense: "Inspired by Montserrat, created by ©Lizzie Harper, all rights reserved"
 height: 90vh
 cta:
   - text: Explore data
