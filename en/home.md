@@ -18,8 +18,6 @@ composition:
     data: home.stats
   - type: split
     data: examples.herbariumImageExample
-  - type: features
-    data: examples.couldBeAnyName
   - type: pageMarkdown
 permalink: /
 ---
