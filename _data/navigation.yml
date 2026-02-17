@@ -29,21 +29,8 @@
       href: /resources/redlist
     - text: Hiking Trails
       href: /resources/hiking
-
-- text: Links
-  menu:
-    - text: Base theme demo
-      href: https://hp-base-theme.gbif-staging.org/
-    - text: Other sites using the theme
-      href: https://github.com/gbif/?q=hp-&type=all&language=&sort=
-    - text: "---"
-    - text: "Docs"
-    - text: Jekyll documentation
-      href: https://jekyllrb.com/docs/pages/
-    - text: Markdown tutorial
-      href: https://guides.github.com/features/mastering-markdown/
-    - text: YAML tutorial
-      href: https://dev.to/paulasantamaria/introduction-to-yaml-125f
+    - text: Montserrat list of IAS
+      href: https://doi.org/10.15468/8rzqvw
 
 - text: News
   href: /news/
