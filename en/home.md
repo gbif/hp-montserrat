@@ -16,11 +16,9 @@ composition:
   - type: heroImage # the block type
   - type: stats
     data: home.stats
-  - type: split
-    data: examples.herbariumImageExample
   - type: pageMarkdown
 permalink: /
 ---
 
 Do you have data on the biodiversity of Montserrat?
-Please share them to (GBIF)[https://www.gbif.org/] to facilitate their free access and use in the region.
+Please share them to [GBIF](https://www.gbif.org/) to facilitate their free access and use in the region.
