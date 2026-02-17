@@ -4,21 +4,17 @@
 columns:
 
   - name: Montserrat National Trust
-    description: |
-      P.O. Box 393, Olveston, Montserrat
     links:
-      - text: Montserrat National Trust
+      - text: P.O. Box 393, Olveston, Montserrat
         href: https://montserratnationaltrust.ms/
     online:
       - icon: facebook
         href: https://www.facebook.com/MontserratNationalTrust
     connectIcons: true
     
-  - name: Department of Environment
-    description: |
-      Government Headquarters, Brades, Montserrat, MSR1110
+  - name: Ministry of Agriculture, Lands, Housing and the Environment      
     links:
-      - text: Ministry of Agriculture, Lands, Housing and the Environment
+      - text: Government Headquarters, Brades, Montserrat, MSR1110
         href: https://www.gov.ms/government/ministries/ministry-of-agriculture-lands-housing-environment/department-of-environment/
 
 
