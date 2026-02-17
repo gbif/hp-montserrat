@@ -2,13 +2,7 @@
   .statistics-cards {
     justify-content: space-between;
   }
-  .feature-img {
-    background-size: 48px 48px;  // pick your size
-    background-repeat: no-repeat;
-    background-position: center;
-   }
-}
-  
+
   .statistic {
     flex: 0 0 300px;
     width: 300px;
@@ -20,6 +14,11 @@
     overflow: hidden;
     height: 300px;
     width: 300px;
+
+    /* shrink the icon inside the circle */
+    background-size: 48px 48px;
+    background-repeat: no-repeat;
+    background-position: center;
   }
 
   .feature-title {
@@ -37,21 +36,25 @@
     .statistics-cards {
       justify-content: space-around;
     }
+
     .statistic {
       flex: 0 0 250px;
       width: 250px;
     }
-  
+
     .feature-img {
       height: 250px;
       width: 250px;
+
+      /* keep icon size or adjust if you want */
+      background-size: 48px 48px;
     }
-  
+
     .feature-title {
       font-size: 35px;
       margin: 0;
     }
-  
+
     .feature-description {
       font-size: 20px;
     }
@@ -63,21 +66,25 @@
     .statistics-cards {
       justify-content: space-around;
     }
+
     .statistic {
       flex: 0 0 200px;
       width: 200px;
     }
-  
+
     .feature-img {
       height: 200px;
       width: 200px;
+
+      /* you might want smaller icons on small screens */
+      background-size: 40px 40px;
     }
-  
+
     .feature-title {
       font-size: 35px;
       margin: 0;
     }
-  
+
     .feature-description {
       font-size: 20px;
     }
