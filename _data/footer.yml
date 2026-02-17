@@ -2,9 +2,6 @@
 # You can also add a small print license statement at the bottom.
 
 columns:
-  - description: |
-      **Do you have data on the biodiversity of Montserrat?**  
-      Please share them to GBIF to facilitate their free access and use in the region.
 
   - name: Montserrat National Trust
     links:
