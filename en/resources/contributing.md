@@ -25,8 +25,8 @@ Around the world, community members can help fill data gaps in biodiversity moni
 
 On Montserrat, the **Montserrat National Trust** and partners have been developing the use of citizen science tools to support conservation and education. Two key examples are:
 
-- **iNaturalist**
-- **Flower-Insect Timed Counts (FIT Counts)**
+- **[iNaturalist](https://www.inaturalist.org)**
+- **[Flower-Insect Timed Count] (https://fitcount.ceh.ac.uk)**
 
 ---
 
@@ -67,7 +67,7 @@ For a simpler version suitable for all ages, you can also use **Seek by iNatural
 
 ## Flower-Insect Timed Count (FIT Count)
 
-**FIT Count (Flower-Insect Timed Count)** is a simple 10-minute survey. You watch a small patch of flowers and record the insects that visit. It is designed for anyone to do and helps track how pollinators such as **bees, butterflies, flies, and wasps** are doing over time.
+**[Flower-Insect Timed Count] or FIT Count(https://fitcount.ceh.ac.uk)** is a simple 10-minute survey. You watch a small patch of flowers and record the insects that visit. It is designed for anyone to do and helps track how pollinators such as **bees, butterflies, flies, and wasps** are doing over time.
 
 This matters because pollinators play a key role in food production and healthy ecosystems. By taking part, you help researchers understand long-term changes in insect numbers and support efforts to protect these vital species.
 
