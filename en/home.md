@@ -22,7 +22,6 @@ composition:
     data: examples.couldBeAnyName
   - type: markdown
 permalink: /
-Lorem markdownum 
 ---
 
 Edit `/home.md` to change the text.
