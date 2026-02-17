@@ -2,7 +2,13 @@
   .statistics-cards {
     justify-content: space-between;
   }
-
+  .feature-img {
+    background-size: 48px 48px;  // pick your size
+    background-repeat: no-repeat;
+    background-position: center;
+   }
+}
+  
   .statistic {
     flex: 0 0 300px;
     width: 300px;
