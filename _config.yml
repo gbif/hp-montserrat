@@ -26,6 +26,7 @@ description: >-
   and citizen science tools supporting conservation and environmental research on Montserrat.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://montserrat.hp.gbif.org" # the base hostname & protocol for your site, e.g. http://example.com
+facebook_username: MontserratNationalTrust
 # twitter_username: yourname # if you have an account you want to link to. Else comment this line out
 # github_username:  yourname # if you have an account you want to link to. Else comment this line out
 tagline: Biodiversity information and tools for Montserrat.
