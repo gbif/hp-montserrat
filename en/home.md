@@ -20,6 +20,7 @@ composition:
     data: examples.herbariumImageExample
   - type: features
     data: examples.couldBeAnyName
+  - type: markdown
 permalink: /
 ---
 
